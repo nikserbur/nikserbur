@@ -1,5 +1,14 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikserbur&layout=compact)](https://github.com/nikserbur/github-readme-stats)
+### Hi there. I am nikita and i have👋
+#### C++ / Java / Python / R programming experience
+#### Experience with ML algorithms
+#### Experience in tuning neural network topologies and optimizers
+#### Experience in applying numerical methods, econometrics and physics to problem solving
+#### Experience in API development, test development for API
+#### Experience with AI models
+#### Well-versed in methodology and mathematical apparatus of optimization: from ready-made ML-solutions (GA, Adam, L-BFSG-B,SANN) to writing your own
+#### Experience in developing mathematical models for optimization tasks
+#### Experience in data processing, preparing data requirements, defining storage and transfer formats
+#### Proficient in the mathematical apparatus of data analysis, statistics and probability theory
 <!--
 **nikserbur/nikserbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
