@@ -1,11 +1,7 @@
 ### Hi there. I am nikita and i have👋
-#### C++ / Java / Python / R programming experience
-#### Experience with ML algorithms
-#### Experience in tuning neural network topologies and optimizers
-#### Experience in applying numerical methods, econometrics and physics to problem solving
-#### Experience in API development, test development for API
-#### Well-versed in methodology and mathematical apparatus of optimization (GA, Adam, L-BFSG-B,SANN) to writing your own
-#### Proficient in the mathematical apparatus of data analysis, statistics and probability theory
+#### Mathematician-algorithmist with programming experience in C++, Java, Python, R and SQL. Deep understanding of mathematical and statistical methods of data analysis, neural networks, machine learning and predictive modelling. Work effectively to develop mathematical and optimisation models.
+#### Specialising in trading, I have created models for both high and low frequency trading, applying knowledge of time series, probability, statistics, macro and microeconomics, as well as portfolio theories and company financial models.
+#### Participated in numerous maths Olympiads, where he won prizes. Went further by applying his skills at professional conferences and hackathons. Performed the role from analyst to development manager in projects related to factor analysis, risk management, scoring and financial models. Ready to actively contribute to your team
 <!--
 **nikserbur/nikserbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
