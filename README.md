@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I specialize in time series forecasting, financial modeling, and neural network architecture. My expertise includes stochastic risk simulation, alpha strategy optimization, and regression modeling. I also lead teams and work on database architecture and product requirements.<br><br>Key Skills<br>Time Series & Financial Modeling: Black-Scholes, CAPM, Heston, options/futures<br>Machine Learning: CatBoost, XGBoost, Random Forest, PCA, EDA<br>Neural Networks: Keras, TensorFlow<br>Optimization: CPLEX, Genetic Algorithms, custom solutions<br>Database: ClickHouse, PostgreSQL, ETL<br>Tools: Jira, Confluence, Figma<br>Tech Stack<br>Languages: R, C++, SQL, Python
 
 
