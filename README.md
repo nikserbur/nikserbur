@@ -1,17 +1,62 @@
-# About Me:
-I specialize in time series forecasting, financial modeling, and neural network architecture. My expertise includes stochastic risk simulation, alpha strategy optimization, and regression modeling. I also lead teams and work on database architecture and product requirements.<br><br>Key Skills<br>Time Series & Financial Modeling: Black-Scholes, CAPM, Heston, options/futures<br>Machine Learning: CatBoost, XGBoost, Random Forest, PCA, EDA<br>Neural Networks: Keras, TensorFlow<br>Optimization: CPLEX, Genetic Algorithms, custom solutions<br>Database: ClickHouse, PostgreSQL, ETL<br>Tools: Jira, Confluence, Figma<br>Tech Stack<br>Languages: R, C++, SQL, Python
+Quantitative Researcher with a background in applied mathematics, statistical modeling, and machine learning.
 
+My work focuses on time-series analysis, stochastic modeling, quantitative research, feature engineering, and optimization. I am interested in developing robust data-driven models for forecasting, risk assessment, and decision-making under uncertainty.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikserbur) 
+## Areas of Interest
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Quantitative Research
+- Time-Series Analysis
+- Statistical Modeling
+- Machine Learning
+- Optimization
+- Derivatives and Risk Modeling
+- Algorithmic Trading
+- Data Engineering
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Technical Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=nikserbur&icon=0&color=0)](https://visitcount.itsvg.in)
+**Languages**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Python
+- C++
+- R
+- SQL
+
+**Machine Learning & Statistics**
+
+- CatBoost
+- LightGBM
+- XGBoost
+- Random Forest
+- PCA
+- Statistical Testing
+- Feature Engineering
+
+**Quantitative Methods**
+
+- Stochastic Processes
+- Distribution Analysis
+- Portfolio Optimization
+- Backtesting
+- Derivatives Modeling
+- Volatility Modeling
+
+**Data & Infrastructure**
+
+- ClickHouse
+- PostgreSQL
+- ETL Pipelines
+- API Development
+
+## Selected Projects
+
+### CBModelsStohastic
+Research project focused on stochastic extensions of interest-rate models and distribution-aware estimation techniques.
+
+### SynapDesk
+Desktop knowledge-management workspace combining notes, structured data, diagrams, and local-first storage.
+
+## Contact
+
+- LinkedIn: linkedin.com/in/nikserbur
+- Email: nikbrown35@gmail.com
