@@ -8,6 +8,7 @@ Currently working on forecasting models, stochastic processes, derivatives model
 
 - **CBModelsStohastic** — stochastic extensions of interest-rate and financial models.
 - **SynapDesk** — local-first knowledge management and productivity workspace.
+- **MAOS** — Production enterprise analytics platform
 - Other repositories contain research experiments in forecasting, quantitative finance, and machine learning.
 
 ### Contact
