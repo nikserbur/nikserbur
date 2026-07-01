@@ -14,4 +14,5 @@ Currently working on forecasting models, stochastic processes, derivatives model
 ### Contact
 
 - LinkedIn: linkedin.com/in/nikserbur
+- tg: @nikserbur
 - Email: nikbrown35@gmail.com
