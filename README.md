@@ -9,7 +9,7 @@ Currently working on forecasting models, stochastic processes, derivatives model
 - **CBModelsStohastic** — stochastic extensions of interest-rate and financial models.
 - **SynapDesk** — local-first knowledge management and productivity workspace.
 - **MAOS** — Production enterprise analytics platform
-- **Termora** — Modern SSH terminal for macOS — sessions, SFTP & live server monitoring.
+- **Northshell** — Modern SSH terminal for macOS — sessions, SFTP & live server monitoring.
 - Other repositories contain research experiments in forecasting, quantitative finance, and machine learning.
 
 ### Contact
