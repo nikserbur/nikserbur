@@ -10,6 +10,7 @@ Currently working on forecasting models, stochastic processes, derivatives model
 - **SynapDesk** — local-first knowledge management and productivity workspace.
 - **MAOS** — Production enterprise analytics platform
 - **Northshell** — Modern SSH terminal for macOS — sessions, SFTP & live server monitoring.
+- **autolearn** — Recursive self‑learning and knowledge base for Claude.
 - Other repositories contain research experiments in forecasting, quantitative finance, and machine learning.
 
 ### Contact
