@@ -6,15 +6,15 @@ Currently working on forecasting models, stochastic processes, derivatives model
 
 ### Projects
 
-- **CBModelsStohastic** — stochastic extensions of interest-rate and financial models.
-- **SynapDesk** — local-first knowledge management and productivity workspace.
-- **MAOS** — Production enterprise analytics platform
-- **Northshell** — Modern SSH terminal for macOS — sessions, SFTP & live server monitoring.
-- **autolearn** — Recursive self‑learning and knowledge base for Claude.
-- Other repositories contain research experiments in forecasting, quantitative finance, and machine learning.
+- **[CBModelsStohastic](https://github.com/nikserbur/CBModelsStohastic)** — companion code for my article on stochastic modelling of monetary policy: fat-tailed extensions of interest-rate models.
+- **[SynapDesk](https://github.com/nikserbur/SynapDeck-alfatest)** — local-first, end-to-end encrypted knowledge management workspace (alpha builds).
+- **[MAOS](https://github.com/nikserbur/maos)** — production planning and optimization platform with a 3D plant diagram.
+- **[Northshell](https://github.com/nikserbur/northshell)** — modern SSH terminal for macOS: sessions, SFTP and live server monitoring.
+- **[Print Prep](https://github.com/nikserbur/printprep)** — offline Windows app that prepares a folder of photos for printing.
+- **[autolearn](https://github.com/nikserbur/autolearn)** — self-learning plugin and knowledge base for Claude Code.
 
 ### Contact
 
-- LinkedIn: linkedin.com/in/nikserbur
-- tg: @nikserbur
-- Email: nikbrown35@gmail.com
+- LinkedIn: [linkedin.com/in/nikserbur](https://www.linkedin.com/in/nikserbur)
+- Telegram: [@nikserbur](https://t.me/nikserbur)
+- Email: [nikbrown35@gmail.com](mailto:nikbrown35@gmail.com)
